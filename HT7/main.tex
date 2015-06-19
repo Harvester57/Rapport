@@ -1,0 +1,201 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Tufte-Style Book (Documentation Template)
+% LaTeX Template
+% Version 1.0 (5/1/13)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% The Tufte-LaTeX Developers (tufte-latex.googlecode.com)
+%
+% License:
+% Apache License (Version 2.0)
+%
+% IMPORTANT NOTE:
+% In addition to running BibTeX to compile the reference list from the .bib
+% file, you will need to run MakeIndex to compile the index at the end of the
+% document.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+\RequirePackage[l2tabu, orthodox]{nag}
+\documentclass[nobib,justified,fonts,a4paper]{tufte-book} % Use
+% the tufte-book class which in turn uses the tufte-common class
+\usepackage{charter}
+\usepackage{hyphenat}
+% \usepackage{fontspec}
+% \usepackage{ucs}
+\usepackage[utf8]{inputenc}
+\usepackage[francais]{babel}
+% \usepackage[utf8x]{luainputenc}
+% \usepackage{polyglossia}
+% \setdefaultlanguage{french}
+% \setotherlanguage[variant=us]{english}
+\usepackage[hyperref=true,
+            url=false,
+            isbn=false,
+            backref=true,
+            style=custom-numeric-comp,
+            citereset=chapter,
+            maxcitenames=1,
+            maxbibnames=100,
+            block=none,
+  			style=verbose,
+  			refsection=section,
+  			abbreviate=true,
+  			autocite=footnote,
+  			backend=biber]{biblatex}
+\usepackage{shorttoc}
+\usepackage{eurosym}
+\usepackage{csquotes}
+
+\addbibresource{bibliography.bib}
+
+\usepackage{booktabs} % Better horizontal rules in tables
+
+\usepackage{graphicx} % Needed to insert images into the document
+\graphicspath{{graphics/}} % Sets the default location of pictures
+\setkeys{Gin}{width=\linewidth,totalheight=\textheight,keepaspectratio} % Improves figure scaling
+
+\usepackage{fancyvrb} % Allows customization of verbatim environments
+\fvset{fontsize=\normalsize} % The font size of all verbatim text can be changed here
+
+\newcommand{\hangp}[1]{\makebox[0pt][r]{(}#1\makebox[0pt][l]{)}} % New command to create parentheses around text in tables which take up no horizontal space - this improves column spacing
+\newcommand{\hangstar}{\makebox[0pt][l]{*}} % New command to create asterisks in tables which take up no horizontal space - this improves column spacing
+
+\usepackage{xspace} % Used for printing a trailing space better than using a tilde (~) using the \xspace command
+
+\newcommand{\monthyear}{\ifcase\month\or Janvier\or Février\or Mars\or
+Avril\or Mai\or Juin\or Juillet\or Aout\or Septembre\or Octobre\or Novembre\or
+Décembre\fi\space\number\year} % A command to print the current month and year
+
+\newcommand{\blankpage}{\newpage\hbox{}\thispagestyle{empty}\newpage} % Command to insert a blank page
+% Prints an epigraph and speaker in sans serif, all-caps type.
+\newcommand{\openepigraph}[2]{%
+  %\sffamily\fontsize{14}{16}\selectfont
+  \begin{fullwidth}
+  \sffamily\large
+  \begin{doublespace}
+  \noindent\allcaps{#1}\\% epigraph
+  \noindent\allcaps{#2}% author
+  \end{doublespace}
+  \end{fullwidth}
+}
+
+
+\usepackage{units} % Used for printing standard units
+\usepackage{microtype}
+% Improves character and word spacing
+\include{commandes}
+
+%----------------------------------------------------------------------------------------
+%	BOOK META-INFORMATION
+%----------------------------------------------------------------------------------------
+
+\title{La surveillance de \\masse en Europe et \\aux
+\'Etats-Unis :\\ \newline une menace pour \\les libertés \\individuelles ?} %
+% Title of the book
+
+\author{Florian STOSSE} % Author
+
+%\publisher{Publisher of This Book} % Publisher
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+
+\frontmatter
+
+%----------------------------------------------------------------------------------------
+
+\maketitle % Print the title page
+
+%----------------------------------------------------------------------------------------
+%	COPYRIGHT PAGE
+%----------------------------------------------------------------------------------------
+
+\newpage
+\begin{fullwidth}
+~\vfill
+\thispagestyle{empty}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{\baselineskip}
+%Copyright \copyright\ \the\year\ \thanklessauthor
+
+%\par\smallcaps{Published by \thanklesspublisher}
+
+\par\smallcaps{tufte-latex.googlecode.com}
+
+\par Ce(tte) œuvre est mise à disposition selon les termes de la Licence Creative Commons Attribution - Partage dans les Mêmes Conditions 4.0 International.\index{license}
+
+\par\textit{Première impression, \monthyear}
+\end{fullwidth}
+
+%----------------------------------------------------------------------------------------
+
+\blankpage
+\shorttableofcontents{Sommaire}{0} % Print the table of contents
+\addcontentsline{toc}{chapter}{Sommaire}%ajout du sommaire dans le sommaire !
+
+
+
+%----------------------------------------------------------------------------------------
+%	DEDICATION PAGE
+%----------------------------------------------------------------------------------------
+
+
+
+%----------------------------------------------------------------------------------------
+%	INTRODUCTION
+%----------------------------------------------------------------------------------------
+
+\cleardoublepage
+\include{introduction}
+
+%----------------------------------------------------------------------------------------
+
+\mainmatter
+
+\include{chapitre1}
+
+\include{chapitre2}
+
+%\chapter{Des risques réels pour la démocratie}
+%\label{ch:risques}
+
+\include{conclusion}
+
+%----------------------------------------------------------------------------------------
+
+\backmatter
+
+%----------------------------------------------------------------------------------------
+
+\listoffigures % Print a list of figures
+
+%----------------------------------------------------------------------------------------
+
+%\listoftables % Print a list of tables
+
+\setcounter{tocdepth}{2}
+\tableofcontents%table des matières plus complète
+\addcontentsline{toc}{chapter}{Table des matières}%ajout de la table des matières dans la table des matières !
+
+%----------------------------------------------------------------------------------------
+%	BIBLIOGRAPHY
+%----------------------------------------------------------------------------------------
+
+\printbibliography 
+%\bibliography{bibliography} % Use the bibliography.bib file for the
+% bibliography
+%\bibliographystyle{plainnat} % Use the plainnat style of referencing
+
+%----------------------------------------------------------------------------------------
+
+%\printindex % Print the index at the very end of the document
+
+\end{document}
