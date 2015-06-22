@@ -1,6 +1,6 @@
 /tmp/
-*.gz
-/out/.gz
+*.synctex.gz
+/out/*.synctex.gz
 
 ## Core latex/pdflatex auxiliary files:
 *.aux
