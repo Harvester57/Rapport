@@ -1,0 +1,56 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {french}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Sommaire}{3}{chapter*.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Introduction}{5}{chapter*.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{La surveillance de masse : une histoire de programmes}{7}{chapter*.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Le programme global des \'Etats-Unis}{8}{section*.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{PRISM}{9}{subsection*.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{XKeyScore}{10}{subsection*.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Bullrun}{10}{subsection*.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Dishfire}{10}{subsection*.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Upstream}{11}{subsection*.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Les programmes en Europe : introduction}{12}{section*.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Le Royaume-Uni et le GCHQ}{12}{section*.11}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Tempora}{12}{subsection*.12}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{MUSCULAR}{13}{subsection*.13}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Squeaky Dolphin}{14}{subsection*.14}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Optic Nerve}{15}{subsection*.15}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{L'Allemagne et le BND}{16}{section*.16}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Op\IeC {\'e}ration EIKONAL}{16}{subsection*.17}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{La station de Bad Aibling : nom de code GARLICK}{19}{subsection*.18}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{La France et la DGSE}{21}{section*.19}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Frenchelon}{22}{subsection*.20}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{L'accord LUSTRE}{23}{subsection*.21}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Quis custodiet ipsos custodes ? -- Qui gardera les gardes ?}{25}{chapter*.22}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{L'avis du Conseil de l'Europe}{26}{subsection*.23}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Freedom Act}{27}{subsection*.24}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Conclusion}{29}{chapter*.25}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Table des mati\IeC {\`e}res}{34}{chapter*.27}
+\contentsfinish 

@@ -1,0 +1,627 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.4 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist{nty}{nty}
+    \entry{yahoocam}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=a92c95c4e958a87845d2cacf5f9c17bb}{Ackerman}{A\bibinitperiod}{Spencer}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=84ab3cd5cc7e2a428a24b37b77a728d6}{Ball}{B\bibinitperiod}{James}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=a92c95c4e958a87845d2cacf5f9c17bb}{Ackerman}{A\bibinitperiod}{Spencer}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=84ab3cd5cc7e2a428a24b37b77a728d6}{Ball}{B\bibinitperiod}{James}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{f5755dbebbb66dfc853db0dfa944418b}
+      \strng{fullhash}{a9a9578fe168a9b26bcd5a7dfb97c0a4}
+      \field{sortinit}{A}
+      \field{sortinithash}{c8a29dea43e9d2645817723335a4dbe8}
+      \field{labeltitle}{Optic Nerve: millions of Yahoo webcam images intercepted by GCHQ}
+      \field{journaltitle}{The Guardian}
+      \field{title}{Optic Nerve: millions of Yahoo webcam images intercepted by GCHQ}
+      \field{year}{2014}
+    \endentry
+    \entry{Guardian}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=84ab3cd5cc7e2a428a24b37b77a728d6}{Ball}{B\bibinitperiod}{James}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=84ab3cd5cc7e2a428a24b37b77a728d6}{Ball}{B\bibinitperiod}{James}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{84ab3cd5cc7e2a428a24b37b77a728d6}
+      \strng{fullhash}{84ab3cd5cc7e2a428a24b37b77a728d6}
+      \field{sortinit}{B}
+      \field{sortinithash}{1a3a21dbed09540af12d49a0b14f4751}
+      \field{labeltitle}{NSA collects millions of text messages daily in 'untargeted' global sweep}
+      \field{journaltitle}{The Guardian}
+      \field{title}{NSA collects millions of text messages daily in 'untargeted' global sweep}
+      \field{year}{2014}
+    \endentry
+    \entry{meta}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=2102fcabe840449a707eba8afd58631e}{BIERMANN}{B\bibinitperiod}{KAI}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=2102fcabe840449a707eba8afd58631e}{BIERMANN}{B\bibinitperiod}{KAI}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{2102fcabe840449a707eba8afd58631e}
+      \strng{fullhash}{2102fcabe840449a707eba8afd58631e}
+      \field{sortinit}{B}
+      \field{sortinithash}{1a3a21dbed09540af12d49a0b14f4751}
+      \field{labeltitle}{BND liefert NSA 1,3 Milliarden Metadaten – jeden Monat}
+      \field{journaltitle}{Die Zeit}
+      \field{title}{BND liefert NSA 1,3 Milliarden Metadaten – jeden Monat}
+      \field{year}{Year}
+    \endentry
+    \entry{airbus}{article}{}
+      \field{sortinit}{B}
+      \field{sortinithash}{1a3a21dbed09540af12d49a0b14f4751}
+      \field{labeltitle}{BND-Affare: Verdacht der Industriespionage gegen Airbus erhartet sich}
+      \field{journaltitle}{Spiegel}
+      \field{title}{BND-Affare: Verdacht der Industriespionage gegen Airbus erhartet sich}
+      \field{year}{2015}
+    \endentry
+    \entry{Stations}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=706256ef45eb1cfe74ff28561e53857b}{Boon}{B\bibinitperiod}{Floor}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=115b92631224fbd89eb59b3de2e80d75}{Derix}{D\bibinitperiod}{Steven}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=782410ed3d985d3eaf630108870871d4}{Modderkolk}{M\bibinitperiod}{Huib}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=706256ef45eb1cfe74ff28561e53857b}{Boon}{B\bibinitperiod}{Floor}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=115b92631224fbd89eb59b3de2e80d75}{Derix}{D\bibinitperiod}{Steven}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=782410ed3d985d3eaf630108870871d4}{Modderkolk}{M\bibinitperiod}{Huib}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{dd85b4048792708a8c30a33aea35cda3}
+      \strng{fullhash}{1dc6e028c35f7149f9aabf0918fd8c05}
+      \field{sortinit}{B}
+      \field{sortinithash}{1a3a21dbed09540af12d49a0b14f4751}
+      \field{labeltitle}{NSA infected 50,000 computer networks with malicious software}
+      \field{journaltitle}{NRC Handelsblad}
+      \field{title}{NSA infected 50,000 computer networks with malicious software}
+      \field{year}{2013}
+    \endentry
+    \entry{DGSE}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=ff0f88a12d049e433162f3be132e48e5}{Borredon}{B\bibinitperiod}{Laurent}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=321184f1acdc29fe82f5a1721093c875}{Follorou}{F\bibinitperiod}{Jacques}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=ff0f88a12d049e433162f3be132e48e5}{Borredon}{B\bibinitperiod}{Laurent}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=321184f1acdc29fe82f5a1721093c875}{Follorou}{F\bibinitperiod}{Jacques}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{b8b8f17e731d7b7dd23c526080ca54ff}
+      \strng{fullhash}{322fcde4494fa184d73075801d887058}
+      \field{sortinit}{B}
+      \field{sortinithash}{1a3a21dbed09540af12d49a0b14f4751}
+      \field{labeltitle}{En France, la DGSE au coeur d'un programme de surveillance d'Internet}
+      \field{journaltitle}{Le Monde}
+      \field{title}{En France, la DGSE au coeur d'un programme de surveillance d'Internet}
+      \field{year}{2013}
+    \endentry
+    \entry{Yahoo}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=926d9746931c0302d53aefb0f18cdc17}{Brandom}{B\bibinitperiod}{Russell}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=926d9746931c0302d53aefb0f18cdc17}{Brandom}{B\bibinitperiod}{Russell}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{926d9746931c0302d53aefb0f18cdc17}
+      \strng{fullhash}{926d9746931c0302d53aefb0f18cdc17}
+      \field{sortinit}{B}
+      \field{sortinithash}{1a3a21dbed09540af12d49a0b14f4751}
+      \field{labeltitle}{Yahoo plans to encrypt all internal data by early 2014 to keep the NSA out}
+      \field{journaltitle}{The Verge}
+      \field{title}{Yahoo plans to encrypt all internal data by early 2014 to keep the NSA out}
+      \field{year}{2013}
+    \endentry
+    \entry{ZDNET}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=32109eddff373ba174a88467b6e17eb0}{Campbell}{C\bibinitperiod}{Duncan}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=32109eddff373ba174a88467b6e17eb0}{Campbell}{C\bibinitperiod}{Duncan}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{32109eddff373ba174a88467b6e17eb0}
+      \strng{fullhash}{32109eddff373ba174a88467b6e17eb0}
+      \field{sortinit}{C}
+      \field{sortinithash}{dd0e4ddd17488a6ebf12cd6de2f2c237}
+      \field{labeltitle}{Echelon: World under watch, an introduction}
+      \field{journaltitle}{ZDNet}
+      \field{title}{Echelon: World under watch, an introduction}
+      \field{year}{2000}
+    \endentry
+    \entry{Campbell1988}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=32109eddff373ba174a88467b6e17eb0}{Campbell}{C\bibinitperiod}{Duncan}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=32109eddff373ba174a88467b6e17eb0}{Campbell}{C\bibinitperiod}{Duncan}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{32109eddff373ba174a88467b6e17eb0}
+      \strng{fullhash}{32109eddff373ba174a88467b6e17eb0}
+      \field{sortinit}{C}
+      \field{sortinithash}{dd0e4ddd17488a6ebf12cd6de2f2c237}
+      \field{labeltitle}{Somebody's Listening}
+      \field{journaltitle}{NEW STATESMAN}
+      \field{title}{Somebody's Listening}
+      \field{year}{1988}
+    \endentry
+    \entry{CEDH}{misc}{}
+      \field{sortinit}{C}
+      \field{sortinithash}{dd0e4ddd17488a6ebf12cd6de2f2c237}
+      \field{labeltitle}{Convention européenne des droits de l'Homme}
+      \field{note}{article 8}
+      \field{title}{Convention européenne des droits de l'Homme}
+    \endentry
+    \entry{reflets}{article}{}
+      \field{sortinit}{E}
+      \field{sortinithash}{655e26c7438ff123e5c69c6c3f702107}
+      \field{labeltitle}{Et si... on etait tous libyens ?}
+      \field{journaltitle}{Reflets.info}
+      \field{title}{Et si... on etait tous libyens ?}
+      \field{year}{2011}
+    \endentry
+    \entry{elexo}{article}{}
+      \field{sortinit}{E}
+      \field{sortinithash}{655e26c7438ff123e5c69c6c3f702107}
+      \field{labeltitle}{Etat francais et Amesys : business as usual (bis repetita)}
+      \field{journaltitle}{Reflets.info}
+      \field{title}{Etat francais et Amesys : business as usual (bis repetita)}
+      \field{year}{2015}
+    \endentry
+    \entry{mediapart}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=a27a4cb8a7c53fd7366c6cb598a8549e}{FESSARD}{F\bibinitperiod}{LOUISE}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=2daddb037504bc55cd93beb57a8a749c}{MATHIEU}{M\bibinitperiod}{MATHILDE}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=a27a4cb8a7c53fd7366c6cb598a8549e}{FESSARD}{F\bibinitperiod}{LOUISE}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=2daddb037504bc55cd93beb57a8a749c}{MATHIEU}{M\bibinitperiod}{MATHILDE}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{0f1f09125a5b42cdbb21ae6ff5e23fae}
+      \strng{fullhash}{7c32c1c694e96ad038200dbc0533351b}
+      \field{sortinit}{F}
+      \field{sortinithash}{9661cce5f16ac30b6b0c804d4583ed99}
+      \field{labeltitle}{Antiterrorisme et grandes oreilles : le contrôle des écoutes est un casse-tête}
+      \field{journaltitle}{Mediapart}
+      \field{title}{Antiterrorisme et grandes oreilles : le contrôle des écoutes est un casse-tête}
+      \field{year}{2015}
+    \endentry
+    \entry{fidh}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=2b3d50dac92e0987731e2e5360540e3d}{FIDH}{F\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=2b3d50dac92e0987731e2e5360540e3d}{FIDH}{F\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{2b3d50dac92e0987731e2e5360540e3d}
+      \strng{fullhash}{2b3d50dac92e0987731e2e5360540e3d}
+      \field{sortinit}{F}
+      \field{sortinithash}{9661cce5f16ac30b6b0c804d4583ed99}
+      \field{labeltitle}{Questions/reponses sur l'affaire Qosmos}
+      \field{title}{Questions/reponses sur l'affaire Qosmos}
+      \field{year}{2012}
+    \endentry
+    \entry{lustre}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=321184f1acdc29fe82f5a1721093c875}{Follorou}{F\bibinitperiod}{Jacques}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=321184f1acdc29fe82f5a1721093c875}{Follorou}{F\bibinitperiod}{Jacques}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{321184f1acdc29fe82f5a1721093c875}
+      \strng{fullhash}{321184f1acdc29fe82f5a1721093c875}
+      \field{sortinit}{F}
+      \field{sortinithash}{9661cce5f16ac30b6b0c804d4583ed99}
+      \field{labeltitle}{Surveillance : la DGSE a transmis des donnees a la NSA americaine}
+      \field{journaltitle}{Le Monde}
+      \field{title}{Surveillance : la DGSE a transmis des donnees a la NSA americaine}
+      \field{year}{2013}
+    \endentry
+    \entry{bbf}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=321184f1acdc29fe82f5a1721093c875}{Follorou}{F\bibinitperiod}{Jacques}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=88bfe6c3ede7ad42358545a63dae58c6}{Johannes}{J\bibinitperiod}{Franck}{F\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=321184f1acdc29fe82f5a1721093c875}{Follorou}{F\bibinitperiod}{Jacques}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=88bfe6c3ede7ad42358545a63dae58c6}{Johannes}{J\bibinitperiod}{Franck}{F\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{487a1ff5d4065b2d7605973640a5ba45}
+      \strng{fullhash}{20e8c470dad9b4ea3a84b3d84708e969}
+      \field{sortinit}{F}
+      \field{sortinithash}{9661cce5f16ac30b6b0c804d4583ed99}
+      \field{labeltitle}{Revelations sur le Big Brother français}
+      \field{journaltitle}{Le Monde}
+      \field{title}{Revelations sur le Big Brother français}
+      \field{year}{2013}
+    \endentry
+    \entry{danemark}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=cb8651d6c86264b4cd90d4cd93839c5f}{Geist}{G\bibinitperiod}{Anton}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=2167dac879586c184874557b0f8b39fe}{Gjerding}{G\bibinitperiod}{Sebastian}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=432b12f39fd0d61b693597fb1670d37a}{Moltke}{M\bibinitperiod}{Henrik}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=cb8651d6c86264b4cd90d4cd93839c5f}{Geist}{G\bibinitperiod}{Anton}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=2167dac879586c184874557b0f8b39fe}{Gjerding}{G\bibinitperiod}{Sebastian}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=432b12f39fd0d61b693597fb1670d37a}{Moltke}{M\bibinitperiod}{Henrik}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{50c9c4c7729d7c1cec9227b21e71d6a4}
+      \strng{fullhash}{6aae43867043af4965005b6991704c07}
+      \field{sortinit}{G}
+      \field{sortinithash}{480ee01f9ffd559b3258d822f54a8ac2}
+      \field{labeltitle}{German disclosure raises questions about Danish NSA-partnership}
+      \field{journaltitle}{information.dk}
+      \field{title}{German disclosure raises questions about Danish NSA-partnership}
+      \field{year}{2015}
+    \endentry
+    \entry{WP91}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=660a4b82d5c111fafc1f0a5399dd41d8}{Gellman}{G\bibinitperiod}{Barton}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=a9fb48d7bd11c3d6a53d8aaf4d906f42}{Poitras}{P\bibinitperiod}{Laura}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=660a4b82d5c111fafc1f0a5399dd41d8}{Gellman}{G\bibinitperiod}{Barton}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=a9fb48d7bd11c3d6a53d8aaf4d906f42}{Poitras}{P\bibinitperiod}{Laura}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{84c1403bfa6053577042356c52a28da8}
+      \strng{fullhash}{0d458b16d1f01d83389c4c397f963ea3}
+      \field{sortinit}{G}
+      \field{sortinithash}{480ee01f9ffd559b3258d822f54a8ac2}
+      \field{labeltitle}{U.S., British intelligence mining data from nine U.S. Internet companies in broad secret program}
+      \field{journaltitle}{Washington Post}
+      \field{title}{U.S., British intelligence mining data from nine U.S. Internet companies in broad secret program}
+      \field{year}{2013}
+    \endentry
+    \entry{echange}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=660a4b82d5c111fafc1f0a5399dd41d8}{Gellman}{G\bibinitperiod}{Barton}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=f687093aa02c3bf51f870451ece49484}{Soltani}{S\bibinitperiod}{Ashkan}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=660a4b82d5c111fafc1f0a5399dd41d8}{Gellman}{G\bibinitperiod}{Barton}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=f687093aa02c3bf51f870451ece49484}{Soltani}{S\bibinitperiod}{Ashkan}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{84c1403bfa6053577042356c52a28da8}
+      \strng{fullhash}{58b922d9b0948c36bab5952d82540259}
+      \field{sortinit}{G}
+      \field{sortinithash}{480ee01f9ffd559b3258d822f54a8ac2}
+      \field{labeltitle}{NSA infiltrates links to Yahoo, Google data centers worldwide, Snowden documents say}
+      \field{journaltitle}{The Washington Post}
+      \field{title}{NSA infiltrates links to Yahoo, Google data centers worldwide, Snowden documents say}
+      \field{year}{2013}
+    \endentry
+    \entry{freedom}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=5bdb8ae82be7e15b3ffae92ffbdf3b35}{GULIANI}{G\bibinitperiod}{NEEMA\bibnamedelima SINGH}{N\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=5bdb8ae82be7e15b3ffae92ffbdf3b35}{GULIANI}{G\bibinitperiod}{NEEMA\bibnamedelima SINGH}{N\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{5bdb8ae82be7e15b3ffae92ffbdf3b35}
+      \strng{fullhash}{5bdb8ae82be7e15b3ffae92ffbdf3b35}
+      \field{sortinit}{G}
+      \field{sortinithash}{480ee01f9ffd559b3258d822f54a8ac2}
+      \field{labeltitle}{What’s Next for Surveillance Reform After the USA Freedom Act}
+      \field{journaltitle}{ACLU Blog}
+      \field{title}{What’s Next for Surveillance Reform After the USA Freedom Act}
+      \field{year}{2015}
+    \endentry
+    \entry{herisson}{article}{}
+      \field{sortinit}{H}
+      \field{sortinithash}{95b2cb08933fe649b7e9f8beee2132b4}
+      \field{labeltitle}{HERISSON et OSINT}
+      \field{journaltitle}{Zone d'Interet}
+      \field{title}{HERISSON et OSINT}
+      \field{year}{2009}
+    \endentry
+    \entry{Kimery}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=0b8b0c07f9c75d38c78beec09c713818}{Kimery}{K\bibinitperiod}{Anthony\bibnamedelima L.}{A\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=0b8b0c07f9c75d38c78beec09c713818}{Kimery}{K\bibinitperiod}{Anthony\bibnamedelima L.}{A\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{0b8b0c07f9c75d38c78beec09c713818}
+      \strng{fullhash}{0b8b0c07f9c75d38c78beec09c713818}
+      \field{sortinit}{K}
+      \field{sortinithash}{33bf4c961fa093ee6a297ccbd88eacc0}
+      \field{labeltitle}{NSA X-KEYSCORE Does Far More Than Just Siphon The Net, But Is It Working ?}
+      \field{journaltitle}{Homeland Security Today}
+      \field{title}{NSA X-KEYSCORE Does Far More Than Just Siphon The Net, But Is It Working ?}
+      \field{year}{2013}
+    \endentry
+    \entry{latribune}{article}{}
+      \field{sortinit}{L}
+      \field{sortinithash}{c41a2b5886eeae464e75d1a9df4cd13e}
+      \field{labeltitle}{Le service webcam de Yahoo, l'oeil de Londres pour espionner les internautes ?}
+      \field{journaltitle}{La Tribune}
+      \field{title}{Le service webcam de Yahoo, l'oeil de Londres pour espionner les internautes ?}
+      \field{year}{2014}
+    \endentry
+    \entry{Tempora}{article}{}
+      \name{labelname}{5}{}{%
+        {{hash=b7f6f0ad51510d6b969e73f19ff96941}{MacAskill}{M\bibinitperiod}{Ewen}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=42f38f8f6d2854b322d345c199edfe54}{Borger}{B\bibinitperiod}{Julian}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=1d5fa7b3eb94f7caa3d5f0efbe46577e}{Hopkins}{H\bibinitperiod}{Nick}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=4456844b6a7cf8592970c195571928b3}{Davies}{D\bibinitperiod}{Nick}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=84ab3cd5cc7e2a428a24b37b77a728d6}{Ball}{B\bibinitperiod}{James}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=b7f6f0ad51510d6b969e73f19ff96941}{MacAskill}{M\bibinitperiod}{Ewen}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=42f38f8f6d2854b322d345c199edfe54}{Borger}{B\bibinitperiod}{Julian}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=1d5fa7b3eb94f7caa3d5f0efbe46577e}{Hopkins}{H\bibinitperiod}{Nick}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=4456844b6a7cf8592970c195571928b3}{Davies}{D\bibinitperiod}{Nick}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=84ab3cd5cc7e2a428a24b37b77a728d6}{Ball}{B\bibinitperiod}{James}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{04d2ff8bcefa50490dd72eeca3be7a46}
+      \strng{fullhash}{f6819362b700718086dc08614d30e64c}
+      \field{sortinit}{M}
+      \field{sortinithash}{4203d16473bc940d4ac780773cb7c5dd}
+      \field{labeltitle}{GCHQ taps fibre-optic cables for secret access to world's communications}
+      \field{journaltitle}{The Guardian}
+      \field{title}{GCHQ taps fibre-optic cables for secret access to world's communications}
+      \field{year}{2013}
+    \endentry
+    \entry{LR}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=4d41e9b90d5090d905ab2dc587d92a87}{Malhuret}{M\bibinitperiod}{Claude}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=261a888ef8ea0fa7ff4a3004acd2522c}{Pellegrini}{P\bibinitperiod}{Francois}{F\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=4d41e9b90d5090d905ab2dc587d92a87}{Malhuret}{M\bibinitperiod}{Claude}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=261a888ef8ea0fa7ff4a3004acd2522c}{Pellegrini}{P\bibinitperiod}{Francois}{F\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{aa290c46b020feb1ad0e762509b78965}
+      \strng{fullhash}{fcee8820ec63a63b64a3fe7bc8910c42}
+      \field{sortinit}{M}
+      \field{sortinithash}{4203d16473bc940d4ac780773cb7c5dd}
+      \field{labeltitle}{La loi renseignement, un projet liberticide en l'etat}
+      \field{journaltitle}{Libération}
+      \field{title}{La loi renseignement, un projet liberticide en l'etat}
+      \field{year}{2015}
+    \endentry
+    \entry{maroc}{article}{}
+      \field{sortinit}{M}
+      \field{sortinithash}{4203d16473bc940d4ac780773cb7c5dd}
+      \field{labeltitle}{Maroc : Le meilleur ami de la France se met au DPI grace a Amesys, la filiale de Bull}
+      \field{journaltitle}{Reflets.info}
+      \field{title}{Maroc : Le meilleur ami de la France se met au DPI grace a Amesys, la filiale de Bull}
+      \field{year}{2011}
+    \endentry
+    \entry{NDR}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=1a7763fa05226cd89b5110d607fea74a}{Mascolo}{M\bibinitperiod}{Georg}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=bcf9034de6385534b1d45f8a8069032e}{Goetz}{G\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=c23683c54a857f6afe68cc3e29ccfc5e}{Osten}{O\bibinitperiod}{Demian}{D\bibinitperiod}{von}{v\bibinitperiod}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=1a7763fa05226cd89b5110d607fea74a}{Mascolo}{M\bibinitperiod}{Georg}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=bcf9034de6385534b1d45f8a8069032e}{Goetz}{G\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=c23683c54a857f6afe68cc3e29ccfc5e}{Osten}{O\bibinitperiod}{Demian}{D\bibinitperiod}{von}{v\bibinitperiod}{}{}}%
+      }
+      \strng{namehash}{ad5eca60ce22c8999fbcdad8b96e019d}
+      \strng{fullhash}{5618ed2a81eeb59e08e6685ac6026d24}
+      \field{sortinit}{M}
+      \field{sortinithash}{4203d16473bc940d4ac780773cb7c5dd}
+      \field{labeltitle}{Codename Eikonal}
+      \field{journaltitle}{tagesschau.de}
+      \field{title}{Codename Eikonal}
+      \field{year}{2014}
+    \endentry
+    \entry{sudde}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=1a7763fa05226cd89b5110d607fea74a}{Mascolo}{M\bibinitperiod}{Georg}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=5b465a1d8f290d9e52790512cf8a7e83}{Leyendecker}{L\bibinitperiod}{Hans}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=bcf9034de6385534b1d45f8a8069032e}{Goetz}{G\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=1a7763fa05226cd89b5110d607fea74a}{Mascolo}{M\bibinitperiod}{Georg}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=5b465a1d8f290d9e52790512cf8a7e83}{Leyendecker}{L\bibinitperiod}{Hans}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=bcf9034de6385534b1d45f8a8069032e}{Goetz}{G\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{ad5eca60ce22c8999fbcdad8b96e019d}
+      \strng{fullhash}{70d6d8bb32b9891b33e77653eb1a0d51}
+      \field{sortinit}{M}
+      \field{sortinithash}{4203d16473bc940d4ac780773cb7c5dd}
+      \field{labeltitle}{Codewort Eikonal - der Albtraum der Bundesregierung}
+      \field{journaltitle}{Suddeutsche Zeitung}
+      \field{title}{Codewort Eikonal - der Albtraum der Bundesregierung}
+      \field{year}{2014}
+    \endentry
+    \entry{qosmos}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=c7cfb14810b497979f3de484e7fe8425}{Mediapart}{M\bibinitperiod}{Reflets\bibnamedelima -}{R\bibinitperiod\bibinitdelim \bibinithyphendelim \bibinithyphendelim \bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=c7cfb14810b497979f3de484e7fe8425}{Mediapart}{M\bibinitperiod}{Reflets\bibnamedelima -}{R\bibinitperiod\bibinitdelim \bibinithyphendelim \bibinithyphendelim \bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{c7cfb14810b497979f3de484e7fe8425}
+      \strng{fullhash}{c7cfb14810b497979f3de484e7fe8425}
+      \field{sortinit}{M}
+      \field{sortinithash}{4203d16473bc940d4ac780773cb7c5dd}
+      \field{labeltitle}{Surveillance: enquete sur Qosmos, le fournisseur de sondes a la Syrie d’al-Assad}
+      \field{journaltitle}{Reflets.info}
+      \field{title}{Surveillance: enquete sur Qosmos, le fournisseur de sondes a la Syrie d’al-Assad}
+      \field{year}{20014}
+    \endentry
+    \entry{eikonal3}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=9878782d48135428b0de79f77cae3fe1}{Meister}{M\bibinitperiod}{Andre}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=9878782d48135428b0de79f77cae3fe1}{Meister}{M\bibinitperiod}{Andre}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{9878782d48135428b0de79f77cae3fe1}
+      \strng{fullhash}{9878782d48135428b0de79f77cae3fe1}
+      \field{sortinit}{M}
+      \field{sortinithash}{4203d16473bc940d4ac780773cb7c5dd}
+      \field{labeltitle}{Interne E-Mail: BND und Deutsche Telekom haben auch Osterreich, Tschechien und Luxemburg abgehort}
+      \field{journaltitle}{Netzpolitik}
+      \field{title}{Interne E-Mail: BND und Deutsche Telekom haben auch Osterreich, Tschechien und Luxemburg abgehort}
+      \field{year}{2015}
+    \endentry
+    \entry{bullrun}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=8fd1db5a2b5324e942e66da7fe7a8da2}{Neal}{N\bibinitperiod}{Ryan\bibnamedelima W.}{R\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=8fd1db5a2b5324e942e66da7fe7a8da2}{Neal}{N\bibinitperiod}{Ryan\bibnamedelima W.}{R\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{8fd1db5a2b5324e942e66da7fe7a8da2}
+      \strng{fullhash}{8fd1db5a2b5324e942e66da7fe7a8da2}
+      \field{sortinit}{N}
+      \field{sortinithash}{a52ecf374d1aa02cdea5f29be4dad56c}
+      \field{labeltitle}{Edward Snowden Reveals Secret Decryption Programs: 10 Things You Need To Know About Bullrun And Edgehill}
+      \field{journaltitle}{Inernationla Business Times}
+      \field{title}{Edward Snowden Reveals Secret Decryption Programs: 10 Things You Need To Know About Bullrun And Edgehill}
+      \field{year}{2013}
+    \endentry
+    \entry{rapport}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=417510f725ff8887140eab822e1a5631}{Omtzigt}{O\bibinitperiod}{Pieter}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=417510f725ff8887140eab822e1a5631}{Omtzigt}{O\bibinitperiod}{Pieter}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{417510f725ff8887140eab822e1a5631}
+      \strng{fullhash}{417510f725ff8887140eab822e1a5631}
+      \field{sortinit}{O}
+      \field{sortinithash}{59512cfd31be1dcef4def024230bdc1d}
+      \field{labeltitle}{Les opérations massives de surveillance}
+      \field{journaltitle}{Conseil de l'Europe}
+      \field{title}{Les opérations massives de surveillance}
+      \field{year}{2015}
+    \endentry
+    \entry{NYTenc}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=239b83c3cc46f9bef9797ac73980be90}{PERLROTH}{P\bibinitperiod}{NICOLE}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=0a08fc53387d8600bf032907baacb9f2}{LARSON}{L\bibinitperiod}{JEFF}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=cb4a9705b8aa8fc7a14b01a760714a28}{SHANE}{S\bibinitperiod}{SCOTT}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=239b83c3cc46f9bef9797ac73980be90}{PERLROTH}{P\bibinitperiod}{NICOLE}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=0a08fc53387d8600bf032907baacb9f2}{LARSON}{L\bibinitperiod}{JEFF}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=cb4a9705b8aa8fc7a14b01a760714a28}{SHANE}{S\bibinitperiod}{SCOTT}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{13c8a61221d4873fe4d069b2a93eafef}
+      \strng{fullhash}{8bc8c19c0b54900eba289030b77280ae}
+      \field{sortinit}{P}
+      \field{sortinithash}{b8af9282ac256b81613dc9012a0ac921}
+      \field{labeltitle}{N.S.A. Able to Foil Basic Safeguards of Privacy on Web}
+      \field{journaltitle}{The New York Times}
+      \field{title}{N.S.A. Able to Foil Basic Safeguards of Privacy on Web}
+      \field{year}{Year}
+    \endentry
+    \entry{surve}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=d8df23ab843a37bf97ea40354db74d15}{Schneier}{S\bibinitperiod}{Bruce}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=d8df23ab843a37bf97ea40354db74d15}{Schneier}{S\bibinitperiod}{Bruce}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{d8df23ab843a37bf97ea40354db74d15}
+      \strng{fullhash}{d8df23ab843a37bf97ea40354db74d15}
+      \field{sortinit}{S}
+      \field{sortinithash}{4125bb4c3a0eb3eaee3ea6da32eb70c8}
+      \field{labeltitle}{Why Mass Surveillance Can't, Won't, And Never Has Stopped A Terrorist}
+      \field{journaltitle}{Digg.com}
+      \field{title}{Why Mass Surveillance Can't, Won't, And Never Has Stopped A Terrorist}
+      \field{year}{2015}
+    \endentry
+    \entry{budget}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=a9101c05a50121f6d4c5f452bfce5b90}{Shane}{S\bibinitperiod}{Scott}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=a9101c05a50121f6d4c5f452bfce5b90}{Shane}{S\bibinitperiod}{Scott}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{a9101c05a50121f6d4c5f452bfce5b90}
+      \strng{fullhash}{a9101c05a50121f6d4c5f452bfce5b90}
+      \field{sortinit}{S}
+      \field{sortinithash}{4125bb4c3a0eb3eaee3ea6da32eb70c8}
+      \field{labeltitle}{New Leaked Document Outlines U.S. Spending on Intelligence Agencies}
+      \field{journaltitle}{The New-York Times}
+      \field{title}{New Leaked Document Outlines U.S. Spending on Intelligence Agencies}
+      \field{year}{2013}
+    \endentry
+    \entry{fbenc}{article}{}
+      \field{sortinit}{S}
+      \field{sortinithash}{4125bb4c3a0eb3eaee3ea6da32eb70c8}
+      \field{labeltitle}{Snowden docs reveal British spies snooped on YouTube and Facebook}
+      \field{journaltitle}{NBC News}
+      \field{title}{Snowden docs reveal British spies snooped on YouTube and Facebook}
+      \field{year}{2014}
+    \endentry
+    \entry{GGW}{article}{}
+      \field{sortinit}{S}
+      \field{sortinithash}{4125bb4c3a0eb3eaee3ea6da32eb70c8}
+      \field{labeltitle}{Snowden-Interview: Transcript}
+      \field{journaltitle}{Norddeutscher Rundfunk}
+      \field{title}{Snowden-Interview: Transcript}
+      \field{year}{2014}
+    \endentry
+    \entry{libye}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=8ca332dd37ccf3e5af0cb0e9d580d472}{SONNE}{S\bibinitperiod}{PAUL}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=1b14f4c978810cd92c4e32afe929b4e7}{COKER}{C\bibinitperiod}{MARGARET}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=8ca332dd37ccf3e5af0cb0e9d580d472}{SONNE}{S\bibinitperiod}{PAUL}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=1b14f4c978810cd92c4e32afe929b4e7}{COKER}{C\bibinitperiod}{MARGARET}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{4a026b8ae6b8b3ef1ae4f9f719e11ee2}
+      \strng{fullhash}{f6b54a12ddcfcd06e85fc23469ae24e3}
+      \field{sortinit}{S}
+      \field{sortinithash}{4125bb4c3a0eb3eaee3ea6da32eb70c8}
+      \field{labeltitle}{Firms Aided Libyan Spies}
+      \field{journaltitle}{Wall Street Journal}
+      \field{title}{Firms Aided Libyan Spies}
+      \field{year}{2011}
+    \endentry
+    \entry{spiegel}{article}{}
+      \field{sortinit}{S}
+      \field{sortinithash}{4125bb4c3a0eb3eaee3ea6da32eb70c8}
+      \field{labeltitle}{Spying Together: Germany's Deep Cooperation with the NSA}
+      \field{journaltitle}{Spiegel}
+      \field{title}{Spying Together: Germany's Deep Cooperation with the NSA}
+      \field{year}{2014}
+    \endentry
+    \entry{WPGoogle}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=386cd5524adcfcd17701903511f433cb}{Timberg}{T\bibinitperiod}{Craig}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=386cd5524adcfcd17701903511f433cb}{Timberg}{T\bibinitperiod}{Craig}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{386cd5524adcfcd17701903511f433cb}
+      \strng{fullhash}{386cd5524adcfcd17701903511f433cb}
+      \field{sortinit}{T}
+      \field{sortinithash}{9378dd666f3c24d81538df53aa99e23d}
+      \field{labeltitle}{Google encrypts data amid backlash against NSA spying}
+      \field{journaltitle}{Washington Post}
+      \field{title}{Google encrypts data amid backlash against NSA spying}
+      \field{year}{2014}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+
