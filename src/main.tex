@@ -1,9 +1,33 @@
-\RequirePackage[l2tabu, orthodox]{nag}
-\documentclass[oneside,openright,titlepage,numbers=noenddot,headinclude,footinclude=true,cleardoublepage=empty,paper=a4,fontsize=11pt,french]{scrreprt}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Tufte-Style Book (Documentation Template)
+% LaTeX Template
+% Version 1.0 (5/1/13)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% The Tufte-LaTeX Developers (tufte-latex.googlecode.com)
+%
+% License:
+% Apache License (Version 2.0)
+%
+% IMPORTANT NOTE:
+% In addition to running BibTeX to compile the reference list from the .bib
+% file, you will need to run MakeIndex to compile the index at the end of the
+% document.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\input{classicthesis-config}
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[twoside,justified,fonts,a4paper]{tufte-book} % Use
+% the tufte-book class which in turn uses the tufte-common class
 \input{commandes}
-\bibliographystyle{plainnat}
+\input{packages}
+% \addbibresource{biblio.bib}
 
 %----------------------------------------------------------------------------------------
 %	BOOK META-INFORMATION
@@ -21,38 +45,38 @@
 
 \begin{document}
 
-
+\frontmatter
 
 %----------------------------------------------------------------------------------------
 
-% \maketitle % Print the title page
+\maketitle % Print the title page
 
-% %----------------------------------------------------------------------------------------
-% %	COPYRIGHT PAGE
-% %----------------------------------------------------------------------------------------
-% 
-% \newpage
-% \begin{fullwidth}
-% ~\vfill
-% \thispagestyle{empty}
-% \setlength{\parindent}{0pt}
-% \setlength{\parskip}{\baselineskip}
-% %Copyright \copyright\ \the\year\ \thanklessauthor
-% 
-% %\par\smallcaps{Published by \thanklesspublisher}
-% 
-% \par\smallcaps{tufte-latex.googlecode.com}
-% 
-% \par Ce(tte) œuvre est mise à disposition selon les termes de la Licence Creative Commons Attribution - Partage dans les Mêmes Conditions 4.0 International.\index{license}
-% 
-% \par\textit{Première impression, \monthyear}
-% \end{fullwidth}
-% 
-% %----------------------------------------------------------------------------------------
+%----------------------------------------------------------------------------------------
+%	COPYRIGHT PAGE
+%----------------------------------------------------------------------------------------
+
+\newpage
+\begin{fullwidth}
+~\vfill
+\thispagestyle{empty}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{\baselineskip}
+%Copyright \copyright\ \the\year\ \thanklessauthor
+
+%\par\smallcaps{Published by \thanklesspublisher}
+
+\par\smallcaps{tufte-latex.googlecode.com}
+
+\par Ce(tte) œuvre est mise à disposition selon les termes de la Licence Creative Commons Attribution - Partage dans les Mêmes Conditions 4.0 International.\index{license}
+
+\par\textit{Première impression, \monthyear}
+\end{fullwidth}
+
+%----------------------------------------------------------------------------------------
 
 % \blankpage
-\shorttableofcontents{Sommaire}{3} % Print the table of contents
-% \addcontentsline{toc}{chapter}{Sommaire}%ajout du sommaire dans le sommaire !
+\shorttableofcontents{Sommaire}{0} % Print the table of contents
+\addcontentsline{toc}{chapter}{Sommaire}%ajout du sommaire dans le sommaire !
 
 
 
@@ -71,7 +95,7 @@
 
 %----------------------------------------------------------------------------------------
 
-
+\mainmatter
 
 \include{chapitre1}
 
@@ -84,7 +108,7 @@
 
 %----------------------------------------------------------------------------------------
 
-
+\backmatter
 
 %----------------------------------------------------------------------------------------
 
@@ -96,15 +120,16 @@
 
 \setcounter{tocdepth}{2}
 \tableofcontents%table des matières plus complète
-% \addcontentsline{toc}{chapter}{Table des matières}%ajout de la table des matières dans la table des matières !
+\addcontentsline{toc}{chapter}{Table des matières}%ajout de la table des matières dans la table des matières !
 
 %----------------------------------------------------------------------------------------
 %	BIBLIOGRAPHY
 %----------------------------------------------------------------------------------------
 
-\bibliography{biblio}
-% \bibliography{biblio} % Use the bibliography.bib file for the bibliography
-%  % Use the plainnat style of referencing
+% \printbibliography 
+\bibliography{biblio} % Use the bibliography.bib file for the bibliography
+\bibliographystyle{plain}
+% \bibliographystyle{plainnat} % Use the plainnat style of referencing
 
 %----------------------------------------------------------------------------------------
 

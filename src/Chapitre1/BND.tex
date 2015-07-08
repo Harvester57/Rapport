@@ -1,6 +1,7 @@
+\newpage
 \section{L'Allemagne et le BND}
 
-Le BND\footnote{Bundesnachrichtendienst} est le service de
+\newthought{Le BND\footnote{Bundesnachrichtendienst} est} le service de
 renseignement extérieur allemand, et le pendant technique de la NSA en
 Allemagne. Les détails exacts de leur coopération ne sont pas tous connus, mais
 on peut au moins citer quelques événements récents qui mettent en lumière des
@@ -8,26 +9,26 @@ liens de coopération étroits (bien que moins solides qu'avec le GCHQ).
 
 \subsection{Opération EIKONAL}
 
-Il existe actuellement très peu de détails techniques sur cette
+\newthought{Il existe actuellement} très peu de détails techniques sur cette
 opération, bien que de nombreux documents et témoignages soient venus récemment
 (mai 2015) apporter un éclairage nouveau sur ce programme qui s'est déroulé entre 2004 et
-2008.\newline
+2008.
 
-Ces nouveaux éléments ont été apportés par les journaux allemands
+\newthought{Ces nouveaux éléments} ont été apportés par les journaux allemands
 Süddeutsche Zeitung\cite{sudde}, NDR et WDR\cite{NDR}, et montrent que la BND,
 en partenariat avec Deutsche Telekom, a placé des équipements réseau (des
 sondes, en l'occurrence) fournis par la NSA au sein du noeud d'échange (noeud
 PoP) maintenu par l'opérateur allemand, à Francfort.
 
 \vspace{0.7cm}
-\begin{figure}[h]
-\centerline{\includegraphics[width=11cm]{eikonal1.jpg}}
-\caption[Architecture de l'opération EIKONAL]{Architecture
+\begin{figure}
+\includegraphics{eikonal1.jpg}
+\caption[Architecture de l'opération EIKONAL][6pt]{Architecture
 technique de l'opération}
 \label{fig:eikonal1}
 \end{figure}
 
-Ce schéma montre l'organisation technique de l'opération : les
+\newthought{Ce schéma montre} l'organisation technique de l'opération : les
 méta-données ainsi qu'une partie spécifique du trafic sont récupérées et passent
 à travers un filtre nommé DAFIS\label{dafis}, qui sert à différencier les
 communications provenant de citoyens allemands (que la BND n'a pas, légalement, le droit
@@ -44,11 +45,11 @@ reproduit ci-dessous :
 \label{fig:eikonal2}
 \end{figure}
 
-La mise sur écoute concernait plus spécifiquement le câble FFM 21
+\newthought{La mise sur écoute} concernait plus spécifiquement le câble FFM 21
 reliant le Luxembourg et Francfort, contenant des canaux de fibres optiques
 reliant le Luxembourg à Moscou, Prague, Vienne (où se trouvent des instances de
-l'ONU) et Ankara\citep{eikonal3}. Cela permettait à la NSA d'accéder à une
-partie du monde auquel elle est très mal reliée directement.
+l'ONU) et Ankara\cite{eikonal3}. Cela permettait à la NSA d'accéder à une partie du
+monde auquel elle est très mal reliée directement.
 
 \begin{figure}[!h]
 \includegraphics{eikonal3.jpg}
@@ -58,7 +59,7 @@ partie du monde auquel elle est très mal reliée directement.
 \end{figure}
 
 \newpage
-EIKONAL a fait parti d'un programme plus large de la NSA de
+\newthought{EIKONAL a fait} parti d'un programme plus large de la NSA de
 coopération avec des pays dits <<~tiers~>>, qui sont des pays ne faisant pas
 partie de Five Eyes, mais qui coopèrent avec la NSA, de façon ponctuelle (comme
 ici) ou de façon plus constante. Ce programme est nommé RAMPART-A, et concerne
@@ -84,27 +85,27 @@ Bad Aibling, opérée par la BND à partir de 2004.}
 \label{fig:ba1}
 \end{figure}
 
-Cette station est une ancienne station d'écoute du réseau ECHELON,
+\newthought{Cette station est} une ancienne station d'écoute du réseau ECHELON,
 et appartenait anciennement à la NSA, qui l'a depuis rendue à l'Etat Fédéral en
 2004 (tout en gardant une équipe opérationnelle sur le site).\cite{spiegel}
 
-Il fut révélé que la NSA pouvait accéder directement aux données
+\newthought{Il fut révélé} que la NSA pouvait accéder directement aux données
 des interceptions, et fournissait même quatre des cinq listes de sélecteurs
 utilisées pour savoir quoi chercher dans le flux de données (adresses IP,
 numéros de téléphone, etc). 
 
-Initialement très petites, ces listes ce sont graduellement
+\newthought{Initialement très petites}, c'est listes ce sont graduellement
 remplies, au point que des contrôles manuels ne furent plus possibles. Elles
 furent donc envoyées automatiquement plusieurs fois par semaine au siège de la
 BND, où elles passaient à travers le DAFIS (voir page \pageref{dafis}) afin
 d'exclure les communications impliquant des ressortissants ou citoyens
 allemands, puis souvent renvoyées tel quel à la NSA.
 
-Ces sélecteurs furent à l'origine d'un scandale à portée européenne
+\newthought{Ces sélecteurs furent} à l'origine d'un scandale à portée européenne
 lorsqu'il fut révélé par certains médias allemands que ces listes contenaient
 des entrées visant des employés du groupe Airbus\cite{airbus}.
 
-Au total, la collecte de méta-données, transmises directement à la
+\newthought{Au total,} la collecte de méta-données, transmises directement à la
 NSA après être passées par DAFIS, était de l'ordre de 200-220 millions par jour,
 soit environ 6.6 milliards de méta-données collectées par mois\ldots\cite{meta}
 
