@@ -1,54 +1,23 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Tufte-Style Book (Documentation Template)
-% LaTeX Template
-% Version 1.0 (5/1/13)
-%
-% This template has been downloaded from:
-% http://www.LaTeXTemplates.com
-%
-% Original author:
-% The Tufte-LaTeX Developers (tufte-latex.googlecode.com)
-%
-% License:
-% Apache License (Version 2.0)
-%
-% IMPORTANT NOTE:
-% In addition to running BibTeX to compile the reference list from the .bib
-% file, you will need to run MakeIndex to compile the index at the end of the
-% document.
-%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\documentclass[ls,twoside,justified,fonts,a4paper,11pt]{tufte-book}
 
-%----------------------------------------------------------------------------------------
-%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
-%----------------------------------------------------------------------------------------
-
-\documentclass[twoside,justified,fonts,a4paper]{tufte-book} % Use
-% the tufte-book class which in turn uses the tufte-common class
 \input{commandes}
 \input{packages}
-% \addbibresource{biblio.bib}
 
 %----------------------------------------------------------------------------------------
 %	BOOK META-INFORMATION
 %----------------------------------------------------------------------------------------
 
 \title{La surveillance de \\masse en Europe et \\aux
-\'Etats-Unis :\\ \newline une menace pour \\les libertés \\individuelles ?} %
-% Title of the book
+\'Etats-Unis :\\ \newline une menace pour \\les libertés \\individuelles ?}
 
-\author{Florian STOSSE} % Author
 
-%\publisher{Publisher of This Book} % Publisher
+\author{Florian STOSSE}
 
 %----------------------------------------------------------------------------------------
 
 \begin{document}
 
 \frontmatter
-
-%----------------------------------------------------------------------------------------
-
 \maketitle % Print the title page
 
 %----------------------------------------------------------------------------------------
@@ -61,9 +30,6 @@
 \thispagestyle{empty}
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{\baselineskip}
-%Copyright \copyright\ \the\year\ \thanklessauthor
-
-%\par\smallcaps{Published by \thanklesspublisher}
 
 \par\smallcaps{tufte-latex.googlecode.com}
 
@@ -74,7 +40,7 @@
 
 %----------------------------------------------------------------------------------------
 
-% \blankpage
+\blankpage
 \shorttableofcontents{Sommaire}{0} % Print the table of contents
 \addcontentsline{toc}{chapter}{Sommaire}%ajout du sommaire dans le sommaire !
 
@@ -118,7 +84,7 @@
 
 %\listoftables % Print a list of tables
 
-\setcounter{tocdepth}{2}
+\setcounter{tocdepth}{1}
 \tableofcontents%table des matières plus complète
 \addcontentsline{toc}{chapter}{Table des matières}%ajout de la table des matières dans la table des matières !
 

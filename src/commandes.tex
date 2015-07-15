@@ -2,6 +2,9 @@
 Avril\or Mai\or Juin\or Juillet\or Aout\or Septembre\or Octobre\or Novembre\or
 Décembre\fi\space\number\year} % A command to print the current month and year
 
+\newcommand{\clearemptydoublepage}{%
+	\newpage{\pagestyle{empty}\cleardoublepage}}
+
 \newcommand{\blankpage}{\newpage\hbox{}\thispagestyle{empty}\newpage} % Command to insert a blank page
 % Prints an epigraph and speaker in sans serif, all-caps type.
 \newcommand{\openepigraph}[2]{%
