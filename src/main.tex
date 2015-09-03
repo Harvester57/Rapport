@@ -2,64 +2,22 @@
 
 \input{commandes}
 \input{packages}
-
-%----------------------------------------------------------------------------------------
-%	BOOK META-INFORMATION
-%----------------------------------------------------------------------------------------
-
-\title{La surveillance de \\masse en Europe et \\aux
-\'Etats-Unis :\\ \newline une menace pour \\les libertés \\individuelles ?}
-
-
-\author{Florian STOSSE}
-
-%----------------------------------------------------------------------------------------
+\input{titre}
 
 \begin{document}
 
 \frontmatter
-\maketitle % Print the title page
+\maketitle
 
-%----------------------------------------------------------------------------------------
-%	COPYRIGHT PAGE
-%----------------------------------------------------------------------------------------
-
-\newpage
-\begin{fullwidth}
-~\vfill
-\thispagestyle{empty}
-\setlength{\parindent}{0pt}
-\setlength{\parskip}{\baselineskip}
-
-\par\smallcaps{tufte-latex.googlecode.com}
-
-\par Ce(tte) œuvre est mise à disposition selon les termes de la Licence Creative Commons Attribution - Partage dans les Mêmes Conditions 4.0 International.\index{license}
-
-\par\textit{Première impression, \monthyear}
-\end{fullwidth}
-
-%----------------------------------------------------------------------------------------
+\input{copyright}
 
 \blankpage
+
 \shorttableofcontents{Sommaire}{0} % Print the table of contents
 \addcontentsline{toc}{chapter}{Sommaire}%ajout du sommaire dans le sommaire !
 
-
-
-%----------------------------------------------------------------------------------------
-%	DEDICATION PAGE
-%----------------------------------------------------------------------------------------
-
-
-
-%----------------------------------------------------------------------------------------
-%	INTRODUCTION
-%----------------------------------------------------------------------------------------
-
 \cleardoublepage
 \include{introduction}
-
-%----------------------------------------------------------------------------------------
 
 \mainmatter
 
@@ -67,38 +25,17 @@
 
 \include{chapitre2}
 
-%\chapter{Des risques réels pour la démocratie}
-%\label{ch:risques}
-
 \include{conclusion}
-
-%----------------------------------------------------------------------------------------
 
 \backmatter
 
-%----------------------------------------------------------------------------------------
-
-\listoffigures % Print a list of figures
-
-%----------------------------------------------------------------------------------------
-
-%\listoftables % Print a list of tables
+\listoffigures 
 
 \setcounter{tocdepth}{1}
-\tableofcontents%table des matières plus complète
-\addcontentsline{toc}{chapter}{Table des matières}%ajout de la table des matières dans la table des matières !
+\tableofcontents
+\addcontentsline{toc}{chapter}{Table des matières}
 
-%----------------------------------------------------------------------------------------
-%	BIBLIOGRAPHY
-%----------------------------------------------------------------------------------------
-
-% \printbibliography 
-\bibliography{biblio} % Use the bibliography.bib file for the bibliography
+\bibliography{biblio} 
 \bibliographystyle{plain}
-% \bibliographystyle{plainnat} % Use the plainnat style of referencing
-
-%----------------------------------------------------------------------------------------
-
-%\printindex % Print the index at the very end of the document
 
 \end{document}
